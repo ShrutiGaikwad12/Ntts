@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css?family=Fira+Sans:400,500,600,700,800");
+/* 
+img{
+    width: 150px;
+} */
+
+/* .login-component {
+    background: url(../images/images3.jpeg) no-repeat center center fixed;
+    background-size: cover;
+    border: 2px solid red;
+    width: 100%;
+    height: 100%;
+} */
+
+input {
+    margin-left: 368px;
+    width: 202px;
+    height: 40px;
+    
+}
+label {
+    margin-left: 370px;
+    color: floralwhite;
+}
+
+button.sign_in.btn.btn-primary {
+    margin-left: 440px;
+    height: 36px;
+}
+
+.container {
+    margin-top: 20%;
+}
+
+b {
+    background-color: darkolivegreen;
+}
